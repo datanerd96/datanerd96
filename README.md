@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a keen intere
 - Data visualization tools like Tableau and Power BI.
 
 ## 💼 Experience
-- **Data Scientist**: I'm a Data Scientist for the Data Ed Startup I'm building.
+- **Data Scientist**: I'm a Data Scientist at Welwitschia Data. We're on a mission to distribute data education in all Namibian languages.
 
 
 ## 📫 How to Reach Me

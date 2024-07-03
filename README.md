@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate data scientist with a keen intere
 - Data visualization tools like Tableau and Power BI.
 
 ## 💼 Experience
-- **Lead Data Analyst**: I'm an analyst for a Data Ed Startup I'm building.
+- **Data Scientist**: I'm a Data Scientist for the Data Ed Startup I'm building.
 
 
 ## 📫 How to Reach Me
